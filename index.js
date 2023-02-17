@@ -1,3 +1,4 @@
 alert("hola desde javascript");
 const saludo = "hola mundo"
-alert(saludo);
+const otrosaludov = "otro saludi"
+alert(saludo,otrosaludov);
